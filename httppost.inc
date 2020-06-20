@@ -5,7 +5,7 @@
 
 
 /**
- * Sets checkpoint data at the given index for the given client
+ * Send message to qq bot
  *
  * @param Target					QQ Number you send to
  * @param Message					Message you send to
