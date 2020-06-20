@@ -7,7 +7,10 @@
 需要：https://github.com/ErikMinekus/sm-ripext/releases/tag/1.1.1
 
 
-HTTPPOST插件
+HTTPPOST插件|需要自己修改cfg里面的内容
 
 
 酷q机器人以及 https://github.com/richardchien/coolq-http-api
+
+
+示范:example.sp
