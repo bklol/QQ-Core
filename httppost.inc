@@ -5,13 +5,23 @@
 
 
 /**
- * Send message to qq bot
+ * Sets checkpoint data at the given index for the given client
  *
  * @param Target					QQ Number you send to
  * @param Message					Message you send to
- * @param Type						Type  0 = Send Private Message,1 = Send Group Message
+ * @param Type						Type  0 == Send Private Message,1 == Send Group Message
  *
  * @noreturn
  */
  
 native void HTTP_PostMsg(char[] Target, char[] Message, int Type);
+
+/**
+ * Restart CQhttpAPI plugin
+ *
+ *
+ * @param delay					Restart delay( Min 0 Max 2000)
+ * @noreturn
+ */
+ 
+native void HTTP_Restart(int delay);
