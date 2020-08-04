@@ -14,3 +14,5 @@ HTTPPOST插件|需要自己修改cfg里面的内容
 
 
 示范:example.sp
+
+//QQ机器人被下架，该插件暂停更新
