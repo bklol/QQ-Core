@@ -10,9 +10,9 @@
 HTTPPOST插件|需要自己修改cfg里面的内容
 
 
-酷q机器人以及 https://github.com/richardchien/coolq-http-api
+酷q机器人以及酷q http api https://github.com/richardchien/coolq-http-api
 
 
-示范:example.sp
+示范插件:example.sp
 
-//QQ机器人被下架，该插件暂停更新
+//QQ机器人被下架，请自行下载QQbot
