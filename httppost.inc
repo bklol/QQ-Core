@@ -5,10 +5,10 @@
 
 
 /**
- * Sets checkpoint data at the given index for the given client
+ * Send A Message To QQ Bot
  *
- * @param Target					QQ Number you send to
- * @param Message					Message you send to
+ * @param Target					QQ Number you send to(QQ bOT)
+ * @param Message					The Message you send 
  * @param Type						Type  0 == Send Private Message,1 == Send Group Message
  *
  * @noreturn
