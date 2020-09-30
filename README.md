@@ -1,5 +1,7 @@
 # Simple-server-to-qq
 
+BOT 框架从酷Q移植到 mirai
+
 
 简易的服务器TO qq消息
 
@@ -15,6 +17,5 @@
 
 需要一个开放自定义端口的酷q机器人以及酷q http api https://github.com/richardchien/coolq-http-api
 
+API :https://github.com/howmanybots/onebot/blob/master/v11/specs/api/public.md
 
-
-//QQ机器人被下架，请自行下载QQbot
