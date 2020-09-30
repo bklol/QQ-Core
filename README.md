@@ -2,9 +2,13 @@
 
 BOT 框架从酷Q移植到 mirai
 
+API :https://github.com/howmanybots/onebot/blob/master/v11/specs/api/public.md
 
-简易的服务器TO qq消息
 
+HTTP APIhttps://github.com/yyuueexxiinngg/cqhttp-mirai
+
+
+简易的服务器TO qq个人/群 消息
 
 服务器需要：https://github.com/ErikMinekus/sm-ripext/releases/tag/1.1.1
 
@@ -15,7 +19,6 @@ BOT 框架从酷Q移植到 mirai
 示范插件:example.sp（用于自己编写qq消息插件）
 
 
-需要一个开放自定义端口的酷q机器人以及酷q http api https://github.com/richardchien/coolq-http-api
 
-API :https://github.com/howmanybots/onebot/blob/master/v11/specs/api/public.md
+
 
