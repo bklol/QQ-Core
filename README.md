@@ -1,5 +1,5 @@
 # Simple-server-to-qq
-##![example](https://github.com/bklol/sticker/blob/main/ss/main.jpg)
+##![example](https://github.com/bklol/QQ-Core/blob/master/1.png)
 简易的服务器TO qq个人/群 消息-【核心/第三方】插件
 
 BOT 框架从酷Q移植到 mirai
